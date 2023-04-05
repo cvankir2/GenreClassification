@@ -1,4 +1,4 @@
-Part 3: First Solution and validation performance
+## Part 3: First Solution and validation performance ##
 Group Members: Camille Knott, Christine Van Kirk, Mia Manabat
 
 1. Source Code: 
