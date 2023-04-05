@@ -20,9 +20,9 @@ Overall, we would like to add more layers, adjust their sizes, change the learni
 # 3. Contributions
 
 Camille:
-*a. Downloaded data from source and uploaded to Google Collab
-*b. Explored usage of CNN
-*c. Tested MLP with all features of the data ~ still in progress		
+* a. Downloaded data from source and uploaded to Google Collab
+* b. Explored usage of CNN
+* c. Tested MLP with all features of the data ~ still in progress		
 
 Christine:
 a. Curated balanced datasets of EchoNest audio features between different music genres
