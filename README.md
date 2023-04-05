@@ -3,7 +3,7 @@ Group Members: Camille Knott, Christine Van Kirk, Mia Manabat
 
 # 1. Source Code: 
 
-Source code is included in:
+Source code for baseline solution is included in: MLP_BinaryClassification.ipynb
 	
 
 # 2. Report:
