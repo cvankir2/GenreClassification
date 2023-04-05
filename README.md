@@ -20,18 +20,18 @@ Overall, we would like to add more layers, adjust their sizes, change the learni
 # 3. Contributions
 
 Camille:
-* a. Downloaded data from source and uploaded to Google Collab
-* b. Explored usage of CNN
-* c. Tested MLP with all features of the data ~ still in progress		
+* Downloaded data from source and uploaded to Google Collab
+* Explored usage of CNN
+* Tested MLP with all features of the data ~ still in progress		
 
 Christine:
-a. Curated balanced datasets of EchoNest audio features between different music genres
-b.  Explored usage of MLP for binary genre classification and multi-genre classifications
-c. Expanded upon MLP from Practical 1 for binary classification of Rock/Electronic music data & quad-classification for Rock/Electronic/HipHop/Folk
+* Curated balanced datasets of EchoNest audio features between different music genres
+* Explored usage of MLP for binary genre classification and multi-genre classifications
+* Expanded upon MLP from Practical 1 for binary classification of Rock/Electronic music data & quad-classification for Rock/Electronic/HipHop/Folk
 
 Mia:
-a. Explored usage of RNN
-b. Created README file and report 
+* Explored usage of RNN
+* Created README file and report 
 
 		
 	
