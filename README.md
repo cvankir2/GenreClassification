@@ -4,6 +4,8 @@ Group Members: Camille Knott, Christine Van Kirk, Mia Manabat
 # 1. Source Code: 
 
 Source code for baseline solution is included in: MLP_BinaryClassification.ipynb
+
+More detailed unfinished code and raw data found in Shared Drive at: https://drive.google.com/drive/u/0/folders/0AD62yCjloVIiUk9PVA 
 	
 
 # 2. Report:
