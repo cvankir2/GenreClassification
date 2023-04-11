@@ -16,7 +16,7 @@ Classification Accuracy: 75%
 For 20 epochs at a .01 learning rate. 
 
 For the final solution, we plan on implementing multiple different changes to this model. We would like to include more genres of music. Another reason we chose to classify a subset is because the classifier was not performing well (above 30%) on the larger dataset. For the final solution we would like to be able to classify more than two genres. 
-The second addition to the final solution would be to include more input data on the music files. The dataset we are using includes more features we could use in classification. Of these we would like to include MCFFs in the final solution. 
+The second addition to the final solution would be to include more input data on the music files. The dataset we are using includes more features we could use in classification. Of these we would like to include MFCCs in the final solution. This would involve creating a separate CNN model that would take the raw audio file data and classify it into genres using more numerical data vs. categorical data.
 Overall, we would like to add more layers, adjust their sizes, change the learning rate, and increase the amount of epochs to see if we can get a better performing model. 
 
 # 3. Contributions
@@ -34,6 +34,7 @@ Christine:
 Mia:
 * Explored usage of RNN
 * Created README file and report 
+* Modified classification MLP code to use PyTorch's modules for cleaner code
 
 		
 	
