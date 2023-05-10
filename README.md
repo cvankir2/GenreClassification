@@ -102,7 +102,7 @@ Conclusion:
 Camille:
 * Downloaded data from source and uploaded to Google Collab
 * Explored usage of CNN
-* Tested MLP with all features of the data ~ still in progress		
+* Tested MLP with all features of the data 	
 * Developed the CNN 8-genre classification model
 
 Christine:
